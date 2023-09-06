@@ -1,0 +1,104 @@
+.button,.button2{
+    color: #1e1f22;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: NONE;
+    display: inline-block;
+    font-size: 40px;
+    border-top-width: 1px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    border-color: #687291;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px;
+    box-shadow: 10px 10px;
+    transition: width 2s;
+}
+
+.button1{
+    padding: 15px 32px;
+    font-size:40px;
+    background-color: #687291;
+    border-width: 4px;
+    height:100px;
+    width:100px;
+    text-shadow: 2px 2px;
+    box-shadow: 10px 10px;
+    transition: width 2s;
+}
+
+div{
+    text-align: center;
+}
+
+.button1:hover{
+    width: 300px;
+}
+.button3{
+    color: #1e1f22;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: NONE;
+    display: inline-block;
+    font-size: 40px;
+    border-top-width: 1px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    border-color: #687291;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px;
+    box-shadow: 10px 10px;
+}
+.button3:active {
+    background-color: #083bd7;
+    box-shadow: 0 5px rgb(25, 25, 25);
+    transform: translateY(5px);
+}
+
+.button4{
+    color: #f50628;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: NONE;
+    display: inline-block;
+    font-size: 40px;
+    border-top-width: 1px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    border-color: #687291;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px;
+    box-shadow: 10px 10px;
+    transition: width 2s;
+    background-image: linear-gradient(#100905, #2f802a);
+}
+
+.button5{
+    color: #1e1f22;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: NONE;
+    display: inline-block;
+    font-size: 40px;
+    border-top-width: 1px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    border-color: #687291;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
+    text-shadow: 2px 2px;
+    box-shadow: 10px 10px;
+    transition: width 2s;
+    font-family: Copperplate, Papyrus, fantasy;
+}
